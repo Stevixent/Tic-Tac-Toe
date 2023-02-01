@@ -44,9 +44,9 @@ html{
 }
 
 #restart{
-    font-size: 1.3rem;
-    margin-top: 1.5rem;
-    padding: 1rem;
+    font-size: 1.3em;
+    margin-top: 1.5em;
+    padding: 1em;
     border-radius: 9px;
     background-color: #0a0027;
     color: #fff;
@@ -70,4 +70,11 @@ html{
     font-size: 12vmin;
 }
 
-#new-game
+#new-game{
+    padding: 0.5em 1em;
+    background-color: #0a0027;
+    color: #fff;
+    border-radius: o.5rem;
+    border: none;
+    font-size: 0.6em;
+}
