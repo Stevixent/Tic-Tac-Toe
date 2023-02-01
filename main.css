@@ -78,3 +78,13 @@ html{
     border: none;
     font-size: 0.6em;
 }
+
+#message{
+    color: #fff;
+    text-align: center;
+    font-size: 1em;
+}
+
+.popup.hide{
+    display: none;
+}
